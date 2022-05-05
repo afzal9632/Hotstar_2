@@ -1,0 +1,10 @@
+#q{
+    width: 30.5%;
+}
+#movie{
+    border: 1px solid;
+    height: 200px;
+    width: 31%;
+    border-top:none;
+    overflow: scroll;
+}
